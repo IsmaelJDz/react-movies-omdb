@@ -1,0 +1,20 @@
+install libraries
+
+webpack
+webpack-cli
+@babel/core
+@babel/preset-env
+@babel/preset-react
+babel-loader
+
+npm i html-webpack-plugin
+npm i react react-dom
+npm i webpack-dev-server
+npm i bootswatch
+npm i css-loader convertir css que webpack puede leer
+npm i style-loader
+npm i eslint eslint-loader eslint-plugin-react
+npm i prop-types
+npm i dotenv-webpack
+
+
